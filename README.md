@@ -1,2 +1,1 @@
-# act
-Automatic CSIRT Teller
+# ACT - Automatic CSIRT Teller
