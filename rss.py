@@ -1,9 +1,7 @@
 from datetime import datetime
 import xml.etree.ElementTree as ET
 import requests
-import pprint
 import json
-import csv
 
 class RSS():
 
