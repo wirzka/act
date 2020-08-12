@@ -47,7 +47,7 @@ Automatic CSIRT Teller
  - (AL01/200808/CSIRT-ITA) Ursa Loader contro utenti italiani
  - (AL03/200807/CSIRT-ITA) Nuovi riscontri relativi al malware Emotet
 ```
-
+**Note**: It could be installed as a scheduled task on Windows. To do it just open the *scheduledTaskInstaller.ps1* file, modify the commented variables and run the PowerShell script as Admin.
 ### Default files
 
 | File | Description|
