@@ -20,7 +20,6 @@ This is how the script runs:
 4. Prints on screen the titles
 5. Saves the titles to file (*default filename: csirtita_YYYY-MM-DD.json*)
 4. Deletes the *csirtita.xml* file
-5. Shows the result | Saves result to file
 
 ### Prerequisites & dependecies
 
